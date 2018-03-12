@@ -12,6 +12,7 @@
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
+  float: right !important;
 }
 .sidebar-container h5 {
   color: #808080;
